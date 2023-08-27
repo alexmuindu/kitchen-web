@@ -57,7 +57,7 @@ This is a sample what my web looks like;
 
 | ONE | TWO| THREE |
 |----------------|-------------------|-----------------|
-| ![ONE](images/breakfast.jpgone.jpg)  |  ![TWO](images/beefBurger.jpg.jpg) | ![THREE](images/drink1%20(1).jpg.jpg)
+| ![ONE](images/drink1.jpg ) |  ![TWO](images/foodsBg.jpg) | ![THREE](images/dinner.jpg)
   |
 | 
 ## Author
