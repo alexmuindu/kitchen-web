@@ -1,21 +1,4 @@
-.menu ul {
-    display: contents;
-    overflow: hidden;
-    background-color: orangered;
-    list-style: none;
-}
-.menu ul li a {
-    float: left;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 30px 100px;
-    text-decoration:none ;
-    border: none;
-    height: 100px;
-    background-size: cover;
-    background-position: center;
-}
+
 .happy-hour{
     background-color: white;
 }
