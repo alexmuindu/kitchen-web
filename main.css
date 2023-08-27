@@ -40,3 +40,28 @@
     color: black;
 
 }
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px; 
+    margin: 0 auto;
+  }
+  
+  .background-image {
+    width: 100%;
+    display: block;
+  }
+  
+  .logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 50%; 
+  }
+  
