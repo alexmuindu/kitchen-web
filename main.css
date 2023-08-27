@@ -1,0 +1,117 @@
+/* Reset some default styles */
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the navigation bar */
+.navbar {
+    background-image: url('landing.jpg');
+    background-size: cover;
+    text-align: center;
+    color: white;
+    overflow: hidden;
+}
+
+/* Style the navigation list */
+.navbar ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+
+.navbar li {
+    margin: 10px 0;
+}
+
+/* Adjust navigation list item appearance */
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+/* Add hover effect to navigation links */
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+/* Corrected class name */
+.fastfood {
+    margin-top: 100px;
+    background-color: white;
+}
+
+/* Corrected class name */
+.fast food h1 {
+    margin-left: 50%;
+    font-weight: bold;
+    padding-top: 60px;
+    float: left;
+}
+.navbar ul {
+    list-style-type: none; 
+    display: flex; 
+    gap: 20px; 
+  }
+  
+
+  .orange-background {
+    background-color:orangered;
+    padding: 20px;
+  }
+  
+  .logo-img {
+    display: block;
+    margin: 10px auto;
+  }
+  .menu {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .ul {
+    .item {
+        position: relative;
+        display: inline-block; /* or use 'inline' or 'inline-flex' depending on your layout needs */
+        margin: 0 10px; /* Adding some spacing between items */
+      }
+      
+  }
+ 
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .content {
+    display: flex;
+    flex-direction: row-reverse; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .text {
+    flex: 1;
+    padding-right: 20px; 
+  }
+  
+  .image {
+    flex: 1;
+    text-align: right; 
+  }
+  
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  .gallery-button {
+    text-align: center;
+    color: redorange; 
+  }
+  
+  
