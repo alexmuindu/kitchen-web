@@ -1,32 +1,4 @@
 
-.happy-hour{
-    background-color: white;
-}
-.party-time{
-    background-color:orangered;
-}
-.breakfast {
-    background:url("images/breakfast.jpg");
-
-}
-.lunch {
-    background:url("images/lunch.jpg");
-    opacity: 0.5;
-
-        
-}
-.dinner{
-    background: url("images/dinner.jpg55");
-}
-.active {
-    background-color:white;
-    color: black;
-
-}
-body {
-    margin: 0;
-    padding: 0;
-  }
   
   .image-container {
     position: relative;
